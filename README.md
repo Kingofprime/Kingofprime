@@ -6,7 +6,7 @@
 
 ## 🎓 Education
 - **The Pennsylvania State University**, Bachelor of Science in Aerospace Engineering
-  - **GPA**: 3.71/4.0
+  - **GPA**: 3.68/4.0
   - **Minor**: Computer Science & Engineering Mechanics
   - **Dean's List**: 6/8 semesters
   - **Courses**: Aerospace Autonomy, Space Dynamics, Control Systems, OOP, Discrete Math, Numerical Computations & Analysis, Aeronautics, Propulsion, Structures, Data Structures & Algorithms, Big Data Analytics.
