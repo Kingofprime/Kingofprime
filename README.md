@@ -3,6 +3,7 @@
 ## 🌱 I’m currently learning:
 - Python
 - Tensorflow
+- ROS
 
 ## 🎓 Education
 - **The Pennsylvania State University**, Bachelor of Science in Aerospace Engineering
